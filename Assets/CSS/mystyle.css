@@ -1,0 +1,363 @@
+.line
+{
+    background-color: #105692;
+    width:auto;
+}
+.signup
+{
+    background-color: #d37204;
+    color: white;
+    border-radius: 20px;
+    font-weight: bold;
+}
+.topbar
+{
+    color: black;
+    font-size:medium;
+    font-weight: 400;
+}
+#menu
+{
+    border-bottom:1px solid #105692;
+}
+
+/* body */
+
+.bar1
+{
+    background-color: #105692;
+}
+.simple
+{
+    text-align: center;
+    color: white;
+    font-size:x-large;
+    font-weight: 200;
+}
+.your
+{
+    font-weight:600 ;
+    font-size: larger;
+    background: linear-gradient(to right, #53b470, #48a37d, #4199a0, #3282c4);
+    -webkit-text-fill-color: transparent;
+    background-clip:text;
+    -webkit-background-clip: text;
+}
+.imgbg
+{
+    background-image: url(/Assets/Images/bgimg.jpg);
+    background-position:top;
+    background-size:cover;
+    background-repeat: no-repeat;
+    padding-top: 100px;
+    padding-bottom: 100px;
+    padding-right: 100px;
+    padding-left: 100px;
+
+}
+.eval
+{
+    color: white;
+    font-weight: bold;
+    font-size: xx-large;
+    margin: 0px;
+}
+.eval1
+{
+    color:white;
+}
+.smcard
+{
+    background-color: #105692;
+    text-align: center;
+    color: white;
+    
+}
+
+.input-box
+{
+position: relative;
+width: auto;
+}
+  
+.input-box i 
+{
+position: absolute;
+right: 30px;
+top:15px;
+color:#ced4da;
+}
+
+.greenbox
+{
+height: 50px;
+background-color:#105692;
+border:2px solid #6cbe46;
+border-radius: 25px;
+}
+.greenbox::-webkit-input-placeholder
+{
+    color:white;
+}
+  
+.greenbox:focus
+{
+background-color: #105692;
+box-shadow:none;
+border-color: #6cbe46;
+}
+.text1
+{
+    font-size: 15px;
+}
+.borderimg1
+{
+    border-radius: 20px;
+}
+.gradcard1
+{
+    background-image: linear-gradient(180deg, #ffffff00, #105692), url(/Assets/Images/gradcard1.jpg);
+    background-position: center;
+    background-size: cover;
+    color: white;
+    
+}
+.gradcard2
+{
+    background-image: linear-gradient(180deg, #ffffff00, #105692), url(/Assets/Images/gradcard2.jpg);
+    background-position: center;
+    background-size: cover;
+    color: white;
+}
+.gradcard3
+{
+    background-image: linear-gradient(180deg, #ffffff00, #105692), url(/Assets/Images/gradcard3.jpg);
+    background-position: center;
+    background-size: cover;
+    color: white;
+}
+.social
+{
+    border-radius: 30px;
+    width:fit-content;
+    background-color: #ffffff00 !important;
+    border-color: white;
+}
+.ion 
+{
+    width: 80%;
+    margin-top: 30px ;
+    margin-bottom: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    opacity: 10%;
+}
+hr
+{
+    color: white;
+    margin-left: auto;
+    margin-right: auto;
+}
+.social1
+{
+    border-radius: 100%;
+    width:fit-content;
+    background-color: #ffffff00 !important;
+    border-color: #105692;
+    color: #105692 !important;
+    font-size: x-small;
+}
+.learn
+{
+    color: #105692;
+    font-weight: 300;
+    font-size: small;
+    margin-right: 10px;
+}
+.cardtext1
+{
+    color:black;
+    font-size: x-large;
+    
+}
+.imageborder
+{
+    border-radius: 20px;
+}
+.cardborder
+{
+    border-radius: 15px;
+}
+.backgrey
+{
+    background-color: #f3f4f6;
+}
+.backgrey1
+{
+    background: linear-gradient(to bottom, #105692 0%,#105692 50%, #ffffff00 50%, #ffffff00 100%);
+}
+.ourtext
+{
+    text-align: center;
+    color: white;
+}
+.carbutton
+{
+    color: black;
+    width: 0%!important;
+    opacity: 100 !important;
+}
+.carbutton:hover
+{
+    color: black;
+}
+.carbutton1
+{
+    color: black;
+    width: 0%!important;
+    opacity: 100 !important;
+}
+.carbutton1:hover
+{
+    color: black;
+}
+.cevleft
+{
+    background-color: white;
+    padding: 15px !important;
+    
+}
+.cevright
+{
+    background-color: white;
+    padding: 15px !important;
+    
+}
+
+.drtext1
+{
+    color: #105692;
+    font-size: x-large;
+    margin: 0px;
+}
+
+.cardborder1
+{
+    border: 0px;
+    margin-left: 40px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.bgimg1
+{
+    background-image: linear-gradient(to right, rgba(16,86,146,0.8) 0%,rgba(16,86,146,0.8) 50%, rgba(76,176,177,0.8) 50%, rgba(76,176,177,0.8) 100%), url(/Assets/Images/doctor-patient.jpg);
+    background-position: center;
+    background-size: cover;
+}
+.gradtext1
+{
+    color: white;
+}
+.gradtext2
+{
+    color: white;
+}
+
+.submit
+{
+    background-color: #105692;
+    width: fit-content;
+}
+.cloudbg
+{
+    background-image: url(/Assets/Images/Untitled.svg);
+    background-position: center;
+    background-size: cover;
+
+}
+.social2
+{
+    border-radius: 30px;
+    border-color: #55acee;
+    color: #55acee !important;
+}
+.social3
+{
+    border-radius: 30px;
+    border-color: #4e70b7;
+    color: #4e70b7 !important;
+}
+.social4
+{
+    border-radius: 30px;
+    border-color: #c6a466;
+    color: #c6a466 !important;
+}
+.social5
+{
+    border-radius: 30px;
+    border-color: #ff0100;
+    color: #ff0100 !important;
+}
+
+
+/* footer */
+
+footer
+{
+    background-color: #302633;
+}
+.text-footer
+{
+    color: white;
+    opacity: 70%;
+    margin-bottom:  10px;
+    font-family: Arial, FontAwesome;
+    
+}
+.text-footer1
+{
+    font-weight: bold;
+    color: white;
+}
+.text-footer2
+{
+    color:white;
+    opacity: 80%;
+    padding-bottom: 5px;
+}
+.text-footer3
+{
+    margin: 0px;
+    color: white;
+    font-weight: bold;
+    font-size: medium;
+    text-decoration: underline;
+}
+
+.socialf
+{
+    border-radius: 30px;
+}
+.quick
+{
+    margin-left: 85px;
+}
+@media (max-width:991px)
+{
+    .midtier
+    {
+        text-align: center;
+        margin: 0%;
+        padding: 0%;
+    }
+}
+@media (max-width:991px)
+{
+    .quick
+    {
+        margin: 0px;
+        margin-top: 10px;
+    }
+}
